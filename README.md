@@ -20,5 +20,5 @@
 
 ### this repo has all the code for MCU
 
-code is in arduino C, for it will be using arm cortex
-
+code is going to be on an arduino uno R3
+ 
